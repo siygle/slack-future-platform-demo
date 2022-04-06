@@ -43,13 +43,46 @@ https://api.slack.com/future/overview
 
 ---
 
-![bg right 60%](https://icongr.am/octicons/mark-github.svg)
+## <!--fit--> **Something you needs before kickoff!**
 
-## **[GitHub Pages](https://github.com/pages)**
+- Install [deno](https://deno.land/#installation)
+- Install [Slack CLI](https://api.slack.com/future/tools/cli/download)
+- TypeScript(?)
 
-#### Ready to write & host your deck!
+---
 
-[![Use this as template h:1.5em](https://img.shields.io/badge/-Use%20this%20as%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/yhatt/marp-cli-example/generate)
+![bg right:20% fit](https://deno.land/logo.svg)
+
+### <!--fit--> What is deno?
+
+> A modern runtime for JavaScript and TypeScript. created by Ryan Dahl
+
+<style scoped>
+  li {
+    font-size: .7rem;
+    text-align: center;
+  }
+</style>
+
+- [10 Things I Regret About Node.js](https://www.youtube.com/watch?v=M3BM9TB-8yA)
+- [Deno is a New Way to JavaScript](https://www.youtube.com/watch?v=1gIiZfSbEAE)
+
+---
+
+### A better Node.js? 😆
+
+- Better security
+- No more centrialized module system
+- Follow the standard
+- Rust & TypeScript (比較酷 😄)
+
+---
+
+![bg](#123) ![](#fff)
+
+### Don't panic 😱
+
+Let's walkthrough an easy example.
 
 ---
 

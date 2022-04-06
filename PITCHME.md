@@ -26,7 +26,7 @@ https://api.slack.com/future/overview
 ### Current struggle
 
 - Dev flow & deployment
-- Complain settings & permissions
+- Complex settings & permissions
 - Not works well with recently Slack bulit-in features
 
 ## 😭

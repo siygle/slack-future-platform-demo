@@ -86,6 +86,25 @@ Let's walkthrough an easy example.
 
 ---
 
+<style scoped>
+  li {
+    font-size: .7rem;
+    text-align: center;
+    list-style: ' (x) ';
+  }
+</style>
+
+## <!--fit--> Can we use this cool thing now?
+
+### Maybe not! 😅
+
+- Lack lots of document & resources.
+- Unstable. (e.g., blackbox, private module)
+
+#### Looking forward to the future but still useful for some toolkit. 😎
+
+---
+
 ![bg 40% opacity blur](https://avatars.githubusercontent.com/u/173408?v=4)
 
 ### Shared by SY ([@siygle](https://github.com/siygle))

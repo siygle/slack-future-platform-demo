@@ -105,6 +105,21 @@ Let's walkthrough an easy example.
 
 ---
 
+<style scoped>
+  li {
+    font-size: .7rem;
+    list-style: ' (v) ';
+  }
+</style>
+
+#### <!--fit--> Pay Attention❗
+
+- Come check the recent changes of [CLI](https://api.slack.com/future/tools/cli/changelog) & [SDK](https://api.slack.com/future/tools/deno-slack-sdk/changelog)
+- Go throught the [FAQ](https://api.slack.com/future/reference/faq) first, maybe you will find some useful info. (e.g., beta platform not support some old features, like slack command)
+- Private modules might not work well (now).
+
+---
+
 ![bg 40% opacity blur](https://avatars.githubusercontent.com/u/173408?v=4)
 
 ### Shared by SY ([@siygle](https://github.com/siygle))
